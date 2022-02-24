@@ -1,0 +1,13 @@
+<h1>You Don't Like Anything</h1>
+
+<br>
+
+James Bridle addresses an interesting phenomena in his article Something is Wrong on the Internet. As much time as he spends citing examples of childrens videos being alogrithmically targeted for maximum impression, and with much of that content being questionable or straight up inappropriate for children, what he only touches on is how far out of control our own media consumption models have gotten. <br>
+<br>
+From our social media feeds to our Netflix and Youtube recommended videos, we no longer control the content we want to see. Everything is based on our interactions with a platform. Most of the time the engagement metrics these platforms use prioritize not only our actions but also the actions of others and the paid content producers who are trying to get their videos to the top of the watch lists. This eliminates our ability to truly develop our own tastes and preferences. While it may seem we have access to endless amounts of content, we really are just being guided towards content by the code that runs the platforms we engage in. <br>
+<br>
+But is this so much different than human curation that existed prior to online platforms? When I walked into a circuit city in the 90's looking to buy music, I was restricted to the content that the store purchasers and their distribution partners deemed economically viable. Prior to online platforms, seeing limited run, international, and independent films often required you to trek to independent movie theaters in city centers, a proposition that was no viable for many people.
+<br>
+Bridle embraces the internet as a wild west of content, while warning of the dangers that lurk for the uninformed, underage and naive. He says that he has been a proponent of the internet and it's emancipatory nature. Even with his caveats and changes in opinion, I tend to agree. Platforms themselves need curation, and this is probably the main crux of his reticence. But the wider internet should be weird and allow for experimentation. Where this breaks down is when a platforms primary driver is monetization. The YouTube videos he describes are merely there to drive towards maximum revenue based on playing the algorithm for views. Quality, content, and relevance are deprioritized in favor of search queries and watch time.
+<br>
+As the internets memory grows longer and longer, the search for relevant content will become harder and harder. More trash will make it into our feeds and we will continue to lose control of our own viewing habits. This will start at a young age and unless we do something to break away from it, our media diets will largely be influenced by others rather than our own preferences. 
