@@ -14,7 +14,7 @@ why is that even necessary? The only thing the player loses is time, which often
 <br><br>
 Anthopy defines a game as "an experience created by rules." but I think broadly, this isn't a requirement of a game. The first time I was introduced to this concept
 was in the Calvin and Hobbes comic strip. The main character, Calvin, invents a game to play with his imaginary tiger friend, Hobbes. The resulting game, Calvinball, is confusing
-and ever changing because there are no rules. It's adaptable to the situation and the whims of the players. This concept has evolved into the sandbox genre of games.
+and ever changing because there are no rules. It's adaptable to the situation and the whims of the players, focusing on, as Anthopy also highlights as a defining feature of a game, the interaction of the players. This concept has evolved into the sandbox genre of games.
 Minecraft and Robolox emulate the freeform nature of the school playground, where participants can engage with a game in a way that makes sense to the player rather
 than the creator of the game. In sandbox games, the only rules are those enforced by the physical limitations of the play environment, and even those are fairly loose. Sandbox
   games give players unprecedented freedom to explore their creativity in virtual environments without being saddled with the game makers expectations. Dreams, released
